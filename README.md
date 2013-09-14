@@ -1,4 +1,1 @@
-nodeFilter
-==========
-
-jQuery plugin helping you to query XML elements having namespaces
+nodeFilter is a tiny little jQuery plugin which helps you to write selectors for you XML elements, even for those with namespaces.
