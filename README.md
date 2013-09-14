@@ -18,4 +18,4 @@ On
 ```
 returns Kiwi.
 
-Tested in FireFox (23.0) and Chrome (29.0.1547.65)
+Tested on FireFox (23.0) and Chrome (29.0.1547.65)
