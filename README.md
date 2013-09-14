@@ -5,8 +5,8 @@ Usage:
 On
 
 ```html
-<prefix:tag color="red" taste="tasty">Apple</prefix:tag>
-<prefix:tag color="green" taste="tasty">Kiwi</prefix:tag>
+    <prefix:tag color="red" taste="tasty">Apple</prefix:tag>
+    <prefix:tag color="green" taste="tasty">Kiwi</prefix:tag>
 ```
 
 ```javascript
