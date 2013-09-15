@@ -2,7 +2,6 @@ nodeFilter is a tiny little jQuery plugin which helps you to write selectors for
 
 Usage:
 
-On
 
 ```html
     <prefix:tag color="red" taste="tasty">Apple</prefix:tag>
@@ -13,9 +12,8 @@ On
 
     var xmlDoc = $.parseXML(rawXml),
         $xml = $(xmlDoc),
-        nodeFilterPTAttr = $xml.nodeFilter('prefix:tag[color="green"]').text();
+        nodeFilterPTAttr = $xml.nodeFilter('prefix:tag[color="green"]').text(); // Kiwi
 
 ```
-returns Kiwi.
 
 Tested on FireFox (23.0) and Chrome (29.0.1547.65)
