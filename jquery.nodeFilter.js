@@ -3,14 +3,12 @@
 (function(factory) {
 
     'use strict';
-    if (typeof module === 'function') {
-        module.exports = factory(this.jQuery || require('jquery'));
-    } else if (typeof define === 'function' && define.amd) {
+    if (typeof define === 'function' && define.amd) {
         define(['jquery'], function($) {
             return factory($);
         });
     } else {
-        this.NProgress = factory(this.jQuery);
+        factory(this.jQuery);
     }
 }(function($) {
 
