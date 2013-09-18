@@ -16,4 +16,4 @@ Usage:
 
 ```
 
-Tested on FireFox (23.0) and Chrome (29.0.1547.65)
+Tested on Firefox (23.0) and Chrome (29.0.1547.65)
